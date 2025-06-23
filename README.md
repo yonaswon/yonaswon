@@ -21,7 +21,6 @@ A full stack application developed solo, featuring a modern web frontend (React,
 - Authentication & authorization
 - State management
 - Modern UI/UX
-- [Add more features as needed]
 
 ## Tech Stack
 
@@ -36,8 +35,8 @@ A full stack application developed solo, featuring a modern web frontend (React,
 - [ ] Django REST Framework / Graphene (for GraphQL)
 
 **Other**
-- [ ] PostgreSQL / SQLite / [Your Database]
+- [ ] PostgreSQL / SQLite / other db's
 - [ ] Docker (optional)
-- [ ] CI/CD: GitHub Actions / [Other]
-- [ ] Hosting: Vercel/Heroku/AWS/[Other]
+- [ ] CI/CD: GitHub Actions 
+- [ ] Hosting: Vercel/Heroku/AWS
 
