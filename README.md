@@ -41,5 +41,3 @@ A full stack application developed solo, featuring a modern web frontend (React,
 - [ ] CI/CD: GitHub Actions / [Other]
 - [ ] Hosting: Vercel/Heroku/AWS/[Other]
 
-Created by [Your Name](mailto:your@email.com)  
-GitHub: [yourusername](https://github.com/yourusername)
